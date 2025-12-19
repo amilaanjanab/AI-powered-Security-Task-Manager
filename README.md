@@ -14,8 +14,8 @@ A Python-based Task Manager that uses Google's Gemini AI to analyze running proc
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repo-name>
+    git clone https://github.com/amilaanjanab/AI-powered-Security-Task-Manager.git
+    cd AI-powered-Security-Task-Manager
     ```
 
 2.  **Install dependencies:**
